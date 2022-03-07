@@ -1,4 +1,4 @@
-d# Joint-Learning of Upstream and Downstream Task in a Sparse-View Computed Tomography Reconstruction Context
+# Joint-Learning of Upstream and Downstream Task in a Sparse-View Computed Tomography Reconstruction Context
 
 Subject of research at Mines ParisTech 
 
