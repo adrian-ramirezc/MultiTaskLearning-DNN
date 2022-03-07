@@ -1,4 +1,4 @@
-# Joint-Learning of Upstream and Downstream Task in a Sparse-View Computed Tomography Reconstruction Context
+d# Joint-Learning of Upstream and Downstream Task in a Sparse-View Computed Tomography Reconstruction Context
 
 Subject of research at Mines ParisTech 
 
@@ -7,3 +7,9 @@ Objectives:
 - Task 2: Segmentation 
 
 Both tasks will be made sequentially using a Multi Task Learning approach with Deep Neural Networks
+
+
+
+
+- Astra-toolbox (follow read me to installation): 
+https://astra-toolbox.com/downloads/index.html
